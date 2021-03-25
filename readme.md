@@ -1,6 +1,6 @@
 # Presentacion
- Hola mi nombre es  Nahuel Fleitas tengo 21 años y soy de Belén de Escobar 
- mi legajo es :11742
+- Hola mi nombre es  Nahuel Fleitas tengo 21 años y soy de Belén de Escobar 
+ -mi legajo es :11742
  ## Hobbies
  Me gusta mucho hacer deporte en general , el gimnasio y la halterofilia .
  ### Trabajos
