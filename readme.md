@@ -1,7 +1,7 @@
 # Presentacion
 Hola mi nombre es  Nahuel Fleitas tengo 21 años y soy de Belén de Escobar.Mi numero de legajo es :11742
  ## Hobbies
- Me gusta mucho hacer deporte en general , el gimnasio y la halterofilia .
+ Me gusta mucho hacer deporte en general , el gimnasio y la halterofilia. 
  ### Trabajos
  actualmente trabajo de matricero y fui personal trainer 2 años 
  *aguante boca*
